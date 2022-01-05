@@ -1,4 +1,4 @@
-let { input } = require('../../node_modules/console-input');
+let { input } = require('console-input');
 
 class Console {
   constructor() {
